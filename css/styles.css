@@ -1,4 +1,6 @@
-body{background-color: black; color:#fcfcfc}
+html, body { height: 100%; background-color: #191414;}
+body { margin: 0; color:#cfcfcf; font-family: Roboto, "Helvetica Neue", sans-serif; margin-bottom: 60px; padding-top: 65px; }
+
 
 .starter-template {
   padding: 40px 15px;
